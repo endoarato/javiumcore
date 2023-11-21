@@ -2,8 +2,8 @@
 
 Java Class file interpreter in Java
 
-Main.java = file to compile to process
-Main.class = class file to parse
+- Main.java = file to compile to process
+- Main.class = class file to parse
 
 ## Inspiration/Sources
 Inspired by tsoding (https://www.twitch.tv/tsoding)
